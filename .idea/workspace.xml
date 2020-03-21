@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13e0bf12-3c01-48c5-8f0b-689359567b6c" name="Default Changelist" comment="" />
+    <list default="true" id="13e0bf12-3c01-48c5-8f0b-689359567b6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/BridgePattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/BridgePattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/BridgePattern/RefinedAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/BridgePattern/RefinedAbstractionA.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZQjaQPQ2uG53SyziYKsyepkdw4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -53,6 +64,10 @@
       <option name="presentableId" value="Default" />
       <updated>1584778274532</updated>
       <workItem from="1584778276277" duration="3310000" />
+      <workItem from="1584785806653" duration="84000" />
+      <workItem from="1584792983030" duration="1329000" />
+      <workItem from="1584796439146" duration="14000" />
+      <workItem from="1584798754020" duration="238000" />
     </task>
     <servers />
   </component>
@@ -60,6 +75,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="113" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584796448251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="113" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1584796448251" />
     <state x="-842" y="684" key="#com.intellij.ide.util.MemberChooser" timestamp="1584779448823">
       <screen x="-1080" y="221" width="864" height="1506" />
     </state>
@@ -68,6 +87,10 @@
       <screen x="-1080" y="221" width="864" height="1506" />
     </state>
     <state x="-917" y="721" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584781209698" />
+    <state x="345" y="202" key="FileChooserDialogImpl" timestamp="1584785880711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="345" y="202" key="FileChooserDialogImpl/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584785880711" />
     <state width="821" height="435" key="GridCell.Tab.0.bottom" timestamp="1584781588498">
       <screen x="-1080" y="221" width="864" height="1506" />
     </state>
@@ -84,5 +107,9 @@
       <screen x="-1080" y="221" width="864" height="1506" />
     </state>
     <state width="821" height="435" key="GridCell.Tab.0.right/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584781588498" />
+    <state x="132" y="89" key="SettingsEditor" timestamp="1584785885009">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="132" y="89" key="SettingsEditor/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584785885009" />
   </component>
 </project>
